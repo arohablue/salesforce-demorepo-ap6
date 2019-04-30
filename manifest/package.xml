@@ -187,6 +187,7 @@
     <members>Customer__c.Email__c</members>
     <members>Customer__c.Name__c</members>
     <members>Customer__c.Phone__c</members>
+    <members>Customer__c.Comment__c</members>
     <members>Dreamhouse_Settings__c.Einstein_Vision_Email__c</members>
     <members>Dreamhouse_Settings__c.LIFX_Token__c</members>
     <members>Dreamhouse_Settings__c.LIFX_URL__c</members>
