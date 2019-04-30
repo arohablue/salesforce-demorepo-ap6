@@ -10,6 +10,6 @@ package.xml
 
 # LWC Jest
 **/__tests__/**
-**/.sfdx/
-**/.vscode/
-**/config/
+**/.sfdx/**
+**/.vscode/**
+**/config/**
