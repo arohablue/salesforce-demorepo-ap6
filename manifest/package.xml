@@ -122,10 +122,6 @@
     <name>AutoResponseRules</name>
   </types>
   <types>
-    <members>DataCloudGeoLocation</members>
-    <name>CleanDataService</name>
-  </types>
-  <types>
     <members>Internal Zone</members>
     <name>Community</name>
   </types>
